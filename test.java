@@ -21,5 +21,6 @@ public class test {
       for (Vol vol : vols) {
          System.out.println(vol);
       }
+      // la chaine de caractere ne s'affiche pas correctement
    }
 }
