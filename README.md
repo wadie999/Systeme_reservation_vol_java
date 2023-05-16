@@ -51,3 +51,4 @@ diagrammes de paquets et choisissez celle qui minimisera le couplage entre les d
 
 <img src="uml.png" alt="Description de l'image">
 
+Pour compiler : ./gradlew run
