@@ -1,21 +1,30 @@
   On se propose ici d’étudier un système de réservation de vol pour une compagnie aérienne.
 Les interviews des experts métiers auxquels on a procédé ont permis de résumer leurs connaissances du domaine sous
 la forme des phrases suivantes :
+
 — des compagnies aériennes proposent différents vols ;
+
 — un vol a un numéro unique ;
+
 — un vol a un jour et une heure de départ et un jour et une heure d’arrivée ;
+
 — un vol a un aéroport de départ et un aéroport d’arrivée ;
+
 — un vol peut comporter des escales dans des aéroports ;
+
 — une escale a une heure d’arrivée et une heure de départ ;
+
 — chaque aéroport dessert une ou plusieurs villes.
+
 — un vol est ouvert à la réservation et refermé sur ordre de la compagnie ;
+
 — un client peut réserver un ou plusieurs vols, pour des passagers différents ;
+
 — une réservation concerne un seul vol et un seul passager ;
+
 — une réservation peut être annulée, ou confirmée si elle a été payée ;
-Attention, les spécifications sont partielles et donc il sera nécessaire d’ajouter des attributs et méthodes, des attributs
-dérivés, des contraintes, etc.
-Vous devez entreprendre la réalisation d’un modèle conceptuel et d’implémentation à partir de ces morceaux de
-connaissances.
+
+
 
 Question 1 (Modélisation des vols et des compagnies) : Modélisez les aspects concernant les vols et les compagnies.
 
